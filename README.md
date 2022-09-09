@@ -1,11 +1,16 @@
+![(But you can call me Ray)](https://media-exp1.licdn.com/dms/image/C4E16AQF1fJ7ppQn24g/profile-displaybackgroundimage-shrink_200_800/0/1645583918852?e=1668038400&v=beta&t=oC-epiTKZq-R8yZwuiHHCR8vk79DKzDIT5BKdkQW7P4)
+
 ### Hi there 👋, My Name is Raymundo Flores Jr
 #### (But you can call me Ray)
-![(But you can call me Ray)](https://media-exp1.licdn.com/dms/image/C4E16AQF1fJ7ppQn24g/profile-displaybackgroundimage-shrink_200_800/0/1645583918852?e=1668038400&v=beta&t=oC-epiTKZq-R8yZwuiHHCR8vk79DKzDIT5BKdkQW7P4)
 
 Currently residing in Houston, Tx.
 I am looking to pivot my career into an Entry Level Analyst Role from a Project Coordinator/Electrician role. 
 
-Skills: Microsoft Excel | SQL | Tableau | R _(very basic fundamentals)_
+### Skills
+
+|_Tool_-|Microsoft Excel | SQL | Tableau | R |Python|
+|---|:---:|:---:|:---:|:---:|---:|
+|_Level_-|Proficient|Competent|Competent|Novice|Novice|
 
 - 🔭 I’m currently working on Data Analyst Certification 
 - 🤔 I’m looking for help with Python 
