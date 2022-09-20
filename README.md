@@ -1,6 +1,7 @@
 ![(But you can call me Ray)](https://media-exp1.licdn.com/dms/image/C4E16AQF1fJ7ppQn24g/profile-displaybackgroundimage-shrink_200_800/0/1645583918852?e=1668038400&v=beta&t=oC-epiTKZq-R8yZwuiHHCR8vk79DKzDIT5BKdkQW7P4)
 
-### Hi there 👋, My Name is Raymundo Flores Jr
+### Hi there 👋
+### My Name is Raymundo
 #### (But you can call me Ray)
 
 Currently residing in Houston, Tx.
