@@ -9,11 +9,11 @@ I am looking to pivot my career into an Entry Level Analyst Role from a Project 
 
 ### Skills
 
-|_Tool_-|Microsoft Excel | SQL | Tableau | R |Python|
-|---|:---:|:---:|:---:|:---:|---:|
-|_Level_-|Proficient|Competent|Competent|Novice|Novice|
+|_Tool_-|Microsoft Excel | SQL | Power BI | Tableau | R |Python|
+|---|:---:|:---:|:---:|:---:|:---:|---:|
+|_Level_-|Proficient|Competent|Competent|Novice|Novice|Novice|
 
-- 🔭 I’m currently working on Data Analyst Certification 
+- 🔭 I’m currently working on expanding my analytical skillset 
 - 🤔 I’m looking for help with Python 
 - 📫 How to reach me: <a href="mailto:mundoflores92@gmail.com">Gmail</a> 
 - 😄 Pronouns: He/Him 
