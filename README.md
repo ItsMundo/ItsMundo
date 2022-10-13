@@ -1,24 +1,26 @@
-![(But you can call me Ray)](https://media-exp1.licdn.com/dms/image/C4E16AQF1fJ7ppQn24g/profile-displaybackgroundimage-shrink_200_800/0/1645583918852?e=1668038400&v=beta&t=oC-epiTKZq-R8yZwuiHHCR8vk79DKzDIT5BKdkQW7P4)
+![(Houston)](https://media-exp1.licdn.com/dms/image/C4E16AQF1fJ7ppQn24g/profile-displaybackgroundimage-shrink_200_800/0/1645583918852?e=1668038400&v=beta&t=oC-epiTKZq-R8yZwuiHHCR8vk79DKzDIT5BKdkQW7P4)
 
-### Hi there 👋
-### My Name is Raymundo
-#### (But you can call me Ray)
+# Raymundo Flores Jr
+**`Data Analyst | Business Analyst | Husband | Father`**
 
-Currently residing in Houston, Tx.
-I am looking to pivot my career into an Entry Level Analyst Role from a Project Coordinator/Electrician role. 
+I am looking to pivot my career into an Entry Level Analyst Role from a Project Coordinator/Electrician role. With a lifelong learner philosophy,a bachelors degree from the University of Texas at San Antonio and recent certification as a Data Analyst I am taking the steps necessary to expand my analytical skillset to help businesses make efficient decisions though insights from data. 
 
-### Skills
+### Languages and Tools:
 
-|_Tool_-|Microsoft Excel | SQL | Power BI | Tableau | R |Python|
-|---|:---:|:---:|:---:|:---:|:---:|---:|
-|_Level_-|Proficient|Competent|Competent|Novice|Novice|Novice|
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="padding-right:10px;" />
+<br/>
 
-- 🔭 I’m currently working on expanding my analytical skillset 
-- 🤔 I’m looking for help with Python 
-- 📫 How to reach me: <a href="mailto:mundoflores92@gmail.com">Gmail</a> 
+<br/>
+
+
+- 🔭 I’m currently working on a MySQL course to expand on syntax and also a Power BI course for dashboard optimizations
+- 🤔 I’m looking for help with Python <img alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+- 📫 How to reach me: <img align="" alt="GitHub" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:8px;" /><a href="mailto:mundoflores92@gmail.com"> Gmail</a> 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: My wife and I have a 4 yr old son and 6 pets that consist of 3 dogs, a cat, a cockatiel, and a bearded dragon.  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ItsMundo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ItsMundo/)  
-
+- ⚡ Fun fact: The wife and I have a 4yr old son and 5 pets. Also, I love to bbq.   
