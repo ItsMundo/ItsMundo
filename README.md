@@ -3,7 +3,13 @@
 # Raymundo Flores Jr
 **`Data Analyst | Business Analyst | Husband | Father`**
 
-I am looking to pivot my career into an Entry Level Analyst Role from a Project Coordinator/Electrician role. With a lifelong learner philosophy,a bachelors degree from the University of Texas at San Antonio and recent certification as a Data Analyst I am taking the steps necessary to expand my analytical skillset to help businesses make efficient decisions though insights from data. 
+As a lifelong learner with a bachelor's degree in Mathematics and Science from the University of Texas at San Antonio and recent certification as a Data Analyst, I am looking to pivot my career into an Entry Level Analyst Role. With a strong foundation in data analysis and a passion for helping businesses make informed decisions, I am constantly seeking ways to expand my skillset and gain new insights.
+
+Currently, I am working on a MySQL course to strengthen my syntax skills and a Power BI course to optimize dashboards. I am also looking for help with Python as I continue to build my analytical skills.
+
+You can reach me through GitHub or Gmail, and LinkedIn.
+
+Outside of work, my wife and I have a 4-year-old son and 5 pets. In my free time, I enjoy BBQing and spending time with my family.
 
 ### Languages and Tools:
 
@@ -23,4 +29,3 @@ I am looking to pivot my career into an Entry Level Analyst Role from a Project 
 - 🤔 I’m looking for help with Python <img alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 - 📫 How to reach me: <img align="" alt="GitHub" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:8px;" /><a href="mailto:mundoflores92@gmail.com"> Gmail</a> 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: The wife and I have a 4yr old son and 5 pets. Also, I love to bbq.   
