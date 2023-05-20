@@ -1,5 +1,3 @@
-![(Houston)](https://media.istockphoto.com/id/1286996592/es/vector/silueta-del-horizonte-de-houston-dise%C3%B1o-de-la-ciudad-de-houston-negro-aislado-sobre-fondo.jpg?s=612x612&w=0&k=20&c=s8EAbTQ3t3YP4ye5FVlIpHlkw-fCCKU-xZRoA1NdB20=)
-
 # Raymundo Flores Jr
 **`Data Analyst | Problem Solver | Husband | Father`**
 
